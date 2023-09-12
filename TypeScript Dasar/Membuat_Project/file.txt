@@ -1,0 +1,18 @@
+Membuat Project
+- buat folder 
+- npm init 
+- buka package.json dan tambah type module
+
+Menambah library Jest Untuk unit Test
+- npm install --save-dev jest @types/jest
+
+Menambah library Babel
+- npm install --save-dev babel-jest @babel/preset-env
+- agar support javascript module
+
+Cara Setup Babel.js
+- masuk ke link https://babeljs.io/setup#installation
+- pilih yang jest
+- salin script usage
+
+

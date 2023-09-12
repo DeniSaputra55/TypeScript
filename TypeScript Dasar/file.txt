@@ -4,3 +4,16 @@ Pengenalan typescript
 - menggunakan typescript akan membuat kode kita lebih mudah dibaca dan didibug dibandingkan
 menggunakan javascript
 - typescript adalah bahasa pemograman yang strongly type(Seperti java,C#, dan C/C++)
+
+proses development typescript
+typescript code -> tsc (typescript compiler) -> javascript code
+
+keuntungan belajar typescript
+- saat ini banyak perusahaan yang mulai mengadopsi typescript, hal ini karena banyak fitur
+yang dimiliki oleh typescript yang sanat memudahkan saat proses pemograman aplikasi.
+- karena typescript melakukan kompilasi kode menjadi javascript, hal ini secara otomatis kita tidak perlu lagi pusing dengan fitur-fitur dijavascript yang belum disupport, karena typescript secara
+otomatis akan mengurusnya.
+- selain itu banyak juga framework-framework yang populer sekarang mulai beralih menggunakan
+typescript, Seperti reactJS, VueJS,NestJS dll.
+
+
