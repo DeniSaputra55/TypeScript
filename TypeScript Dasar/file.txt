@@ -1,0 +1,6 @@
+Pengenalan typescript
+- typescript adalah bahasa pemograman berorientasi objek yang dibuat oleh mircrosoft
+- typescript adalah bahasa pemograman yang di kompilasi menjadi kode javascript
+- menggunakan typescript akan membuat kode kita lebih mudah dibaca dan didibug dibandingkan
+menggunakan javascript
+- typescript adalah bahasa pemograman yang strongly type(Seperti java,C#, dan C/C++)
